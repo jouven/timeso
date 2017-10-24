@@ -17,7 +17,7 @@ namespace timeUtils
 class datetimeStringParser_c
 {
 		std::string dateTimeStr_pri;
-		std::stringstream ss_pub;
+		std::stringstream ss_pri;
 	public:
 		void setFormat(const std::string& formatStr_par_con);
 		datetimeStringParser_c() = delete;
