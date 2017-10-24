@@ -1,5 +1,5 @@
-#ifndef COMU_DATETIMESTRPARSER_H_
-#define COMU_DATETIMESTRPARSER_H_
+#ifndef TIMESO_DATETIMESTRPARSER_H_
+#define TIMESO_DATETIMESTRPARSER_H_
 
 #include <chrono>
 #include <string>
@@ -33,4 +33,4 @@ class datetimeStringParser_c
 }
 }
 
-#endif /* COMU_DATETIMESTRPARSER_H_ */
+#endif /* TIMESO_DATETIMESTRPARSER_H_ */
